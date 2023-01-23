@@ -1,7 +1,7 @@
 # Olá, eu sou o Gustavo 👨‍💻
 
 ## 💫 Sobre mim:
-- Sou um desenvolvedor full-stack apaixonado por codar e por aprender coisas novas!<br><br>🙋‍♂‍ Pronomes: Ele-Dele
+- Sou um desenvolvedor full-stack de SG/RJ apaixonado por codar e por aprender coisas novas!<br><br>🙋‍♂‍ Pronomes: Ele-Dele
 
 
 ## 🌐 Redes sociais:
