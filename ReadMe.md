@@ -2,6 +2,7 @@
 
 ## 💫 Sobre mim:
 - Sou um desenvolvedor full-stack de SG/RJ apaixonado por codar e por aprender coisas novas!<br><br>🙋‍♂‍ Pronomes: Ele-Dele<br><br>Email: gustaalveess1302@gmail.com 
+- Estudando Flutter e Java
 
 
 ## 🌐 Redes sociais:
