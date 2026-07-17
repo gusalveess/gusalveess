@@ -50,8 +50,20 @@ Aplicativo mobile que centraliza e simplifica o acesso a dados públicos municip
 ### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gusalveess&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusalveess&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" alt="top langs"/>
+  <img src="https://img.shields.io/github/followers/gusalveess?style=for-the-badge&logo=github&color=2563EB&labelColor=0f172a" alt="followers"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gusalveess&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
+
+<p align="center">
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gusalveess&theme=tokyonight" alt="linguagens"/>
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gusalveess&theme=tokyonight" alt="commits por linguagem"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gusalveess&theme=tokyonight" alt="resumo do perfil"/>
 </p>
 
 <p align="center"><i>💬 Chama no WhatsApp ou LinkedIn — respondo rápido e faço orçamento sem compromisso.</i></p>
